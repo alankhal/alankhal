@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alan 👋
 
-<!--
-**alankhal/alankhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer with a real curiosity for how things work under the hood, the low-level side of software where you're managing memory directly, working close to the hardware, and figuring out how a machine actually executes your code. Emulators, embedded systems, and modern C++ are what I spend most of my time on lately. I also enjoy making games and hope to show the progress I have made on my profile soon! 
 
-Here are some ideas to get you started:
+I'm currently in my third semester of the **Computer Programming and Analysis** advanced diploma at **Seneca Polytechnic**, graduating January 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently working with
+
+C++ · JavaScript · SQL· CMake · Git · HTML · CSSM · MongoDB · Node.js 
+
+### 🎯 Looking for
+
+A Fall 2026 co-op in embedded, systems, or backend development — somewhere I can contribute real work, learn from experienced engineers, and grow as a developer.
+
+### 📫 Get in touch
+
+- Email: alankhalifehzadeh@gmail.com
+- LinkedIn: [linkedin.com/in/alankhalif](https://www.linkedin.com/in/alankhalif/)
