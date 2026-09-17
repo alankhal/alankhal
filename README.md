@@ -10,7 +10,7 @@ C++ · JavaScript · SQL· CMake · Git · HTML · CSSM · MongoDB · Node.js
 
 ### 🎯 Looking for
 
-A Fall 2026 co-op in embedded, systems, or backend development — somewhere I can contribute real work, learn from experienced engineers, and grow as a developer.
+A  co-op in embedded, systems, or backend development — somewhere I can contribute real work, learn from experienced engineers, grow as a developer and use that knowledge towards finishing my roguelike game.
 
 ### 📫 Get in touch
 
