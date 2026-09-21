@@ -2,7 +2,7 @@
 
 **C++ developer who likes building performance-critical software. Open to co-op roles in backend, systems, and embedded development.**
 
-Most of my work is in modern C++, on software where speed and correctness both matter: emulators, game systems, and backend services. I came to programming after a Bachelor of Science and several years in property development and stone fabrication; the jobs were good but I always felt that it never scratched my itch for problem-solving. It was something I always looked for an outlet for after work, whether that was going to chess clubs, jiu-jitsu, or playing different video games. None of them provided the same problem-solving capabilities that programming and software development have allowed me to experience, opening the doors to not only endless interesting problems but also the expression for creativity in one's own ideas and work. 
+Most of my work is in modern C++, on software where speed and correctness both matter: emulators, game systems, and backend services. I came to programming after a Bachelor of Science and several years in property development and stone fabrication; the jobs were good but I always felt that it never scratched my itch for problem-solving. I always looked for an outlet after work, whether that was going to chess clubs, jiu-jitsu, or playing different video games. None of them provided the same problem-solving capabilities that programming and software development have allowed me to experience, opening the doors to not only endless interesting problems but also the expression for creativity in one's own ideas and work. 
 
 ## Projects
 
