@@ -21,7 +21,7 @@ Finishing TradeVault, then moving from emulating hardware to programming it dire
 
 ## Stack
 
-**Languages:** C++ (17/20), C, Python, SQL, JavaScript
+**Languages:** C++ (11/17/20), C, Python, SQL, JavaScript
 **Tools:** CMake, Git, Linux, Docker, GitHub Actions, GoogleTest, Drogon, PostgreSQL
 
 ## Contact
