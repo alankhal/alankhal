@@ -26,4 +26,4 @@ Finishing TradeVault, then moving from emulating hardware to programming it dire
 
 ## Contact
 
-[Resume](Alan_Khalif_Resume.pdf) · [Email](mailto:alankhalifehzadeh@gmail.com) · [LinkedIn](https://linkedin.com/in/alankhalif)
+[Email](mailto:alankhalifehzadeh@gmail.com) · [LinkedIn](https://linkedin.com/in/alankhalif)
